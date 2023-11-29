@@ -1,0 +1,37 @@
+body {
+    background-color: #9b9b9b;
+}
+
+header {
+    color: #d6d6d6;
+    margin: 10px 0;
+}
+
+.bar {
+    margin-bottom: 10px;
+}
+
+.calcType {
+    margin-bottom: 10px;
+}
+
+#space1,#space2,#result {
+    width: 80px;
+}
+
+#mark {
+    width: 13px;
+}
+
+#one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#zero {
+    width: 50px;
+    margin: 0 6px;
+}
+
+#zero {
+    margin-left: 73px;
+}
+
+#space1,#space2,#mark {
+    /* visibility: hidden; */
+}
