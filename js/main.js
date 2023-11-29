@@ -25,8 +25,6 @@ $(function(){
         }
     })
 
-    // backキーはいったん未実装で保留
-
     $('#plus').on('click', function(){
         var input = Number($('#space1').val());
         var reInput = Number($('#space2').val());
